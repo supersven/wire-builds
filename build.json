@@ -2,8 +2,8 @@
   "version": "1.0.0-zulu.573",
   "helmCharts": {
     "wire-server": {
-      "repo": "https://s3-eu-west-1.amazonaws.com/public.wire.com/charts-develop",
-      "version": "4.41.39",
+      "repo": "http://localhost:4001",
+      "version": "4.41.38",
       "meta": {
         "commit": "b85133fc86d7826b3671979ca3f73d3e7a20cbac",
         "commitURL": "https://github.com/wireapp/wire-server/commit/b85133fc86d7826b3671979ca3f73d3e7a20cbac"
