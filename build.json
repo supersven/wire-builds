@@ -3,7 +3,7 @@
   "helmCharts": {
     "wire-server": {
       "repo": "http://localhost:4001",
-      "version": "5.5.4",
+      "version": "5.5.5",
       "meta": {
         "commit": "345e1e513f3887f8817599a16f7aa586de156d87",
         "commitURL": "https://github.com/wireapp/wire-server/commit/345e1e513f3887f8817599a16f7aa586de156d87"
