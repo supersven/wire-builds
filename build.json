@@ -3,10 +3,10 @@
   "helmCharts": {
     "wire-server": {
       "repo": "https://s3-eu-west-1.amazonaws.com/public.wire.com/charts-develop",
-      "version": "5.7.8",
+      "version": "0.0.2-pr.9386",
       "meta": {
-        "commit": "368b0461bc14044d153e2c4455cb2329843b17d9",
-        "commitURL": "https://github.com/wireapp/wire-server/commit/368b0461bc14044d153e2c4455cb2329843b17d9"
+        "commit": "a21d71bdbd8913bb43a0422a553019c615d2b0fa",
+        "commitURL": "https://github.com/wireapp/wire-server/commit/a21d71bdbd8913bb43a0422a553019c615d2b0fa"
       }
     },
     "webapp": {
